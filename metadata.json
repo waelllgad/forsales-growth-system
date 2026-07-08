@@ -1,0 +1,6 @@
+{
+  "name": "ForSales Growth System",
+  "description": "نظام شامل لجمع بيانات الشركات الصغيرة في المملكة المتحدة (مانشستر)، وإدارة حملات التواصل والبريد الإلكتروني، ومتابعة العملاء عبر لوحة تحكم CRM متكاملة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
